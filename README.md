@@ -1,4 +1,7 @@
 # cart_functionalities
+![Screenshot_20240514_224816](https://github.com/mahmudebnezaman/Shopping_Cart_Functionalities/assets/89069368/c60d7569-80b5-466c-98b5-0847c42face0)
+![Screenshot_20240514_224756](https://github.com/mahmudebnezaman/Shopping_Cart_Functionalities/assets/89069368/059d6b58-6ebb-4859-bf45-a83bbf17c63f)
+
 
 A new Flutter project.
 
